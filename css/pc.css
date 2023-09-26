@@ -102,7 +102,7 @@ section{
     text-align: center;
     position: relative;
     left:50%;
-    top: 45%;
+    top: 50%;
     transform: translate(-50%, -50%);
     font-size: 50px;
     color: #333;    
@@ -153,6 +153,7 @@ section{
 }
 
 /*---------------s4 시작-------------------*/
+
 
 
 /*---------------s5 시작-------------------*/
